@@ -1,0 +1,44 @@
+[
+	{
+		"title": "DreyerX",
+		"links": [
+			{
+				"text": "Website",
+				"url": "https://dreyerx.com"
+			},
+			{
+				"text": "Staking",
+				"url": "https://stake.dreyerx.com"
+			},
+            {
+                "text": "Faucet",
+                "url": "https://faucet.dreyerx.com"
+            },
+			{
+				"text": "Contact us",
+				"url": "https://dreyerx.com"
+			},
+			{
+				"text": "Term of service",
+				"url": "https://dreyerx.com"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [
+			{
+				"text": "Youtube",
+				"url": "https://youtube.@DreyerX"
+			},
+			{
+				"text": "X",
+				"url": "https://x.com/dreyerxcoin"
+			},
+			{
+				"text": "Telegram",
+				"url": "https://t.me/dreyerxcoin"
+			}
+		]
+	}
+]
